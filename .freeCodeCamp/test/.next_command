@@ -113,3 +113,24 @@ git remote add origin "https://github.com/mailsg/fcc.git"
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "FIVE BASH PROJECTS"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin main --force
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin master
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git checkout -b main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
