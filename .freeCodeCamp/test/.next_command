@@ -149,3 +149,33 @@ git init
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "Trying to push to main branch the five BASH projects"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd .git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cat config
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git branch -D master
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
