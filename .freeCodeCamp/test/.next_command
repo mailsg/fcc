@@ -227,3 +227,42 @@ git init
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "Trying to add 5 BASH Projects"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push -u origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git branch
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git branch -M main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git puch --set-upstream origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git pull --rebase
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "Trying to add 5 BASH Projects"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
