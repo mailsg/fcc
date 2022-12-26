@@ -134,3 +134,18 @@ git checkout -b main
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "FIVE (5) BASH PROJECTS"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push --set-upstream origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
